@@ -1,4 +1,4 @@
-# app2
+# Printer test App
 
 > An electron-vue project
 

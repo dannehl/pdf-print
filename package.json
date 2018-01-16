@@ -1,8 +1,8 @@
 {
   "name": "pdfprint",
-  "version": "0.0.0",
+  "version": "0.1",
   "author": "David Dannehl <david@dannehl.net>",
-  "description": "An electron-vue project",
+  "description": "An pdfprint test project",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {
