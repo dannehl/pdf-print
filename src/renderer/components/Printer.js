@@ -5,6 +5,11 @@ const fs = require('fs')
 export default class {
 
 
+  /**
+   * List all printer
+   *
+   * @return {Array}
+   */
   static listAll () {
     return printer.getPrinters()
   }
